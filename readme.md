@@ -6,7 +6,7 @@
 
   <p>The User model is designed to represent user data in a MongoDB database using Mongoose. It provides a schema for defining the structure of user documents and includes middleware functions for hashing passwords before saving them to the database.</p>
 
-  <img src="your-image-url.jpg" alt="User Model Image" width="400">
+  <img src="dealership.png" alt="User Model Image" width="400">
 
   <h2 id="features">Features</h2>
   <ul>
